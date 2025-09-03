@@ -19,7 +19,7 @@ A powerful web application that enables users to write and edit code in real tim
 Follow these steps to run the project locally:
 
 1.Clone the repository:
-git clone https://github.com/yourusername/realtime-code-editor.git
+git clone https://github.com/aradhya571/Collab-Text.git
 
 2. Navigate into the project folder:
 cd realtime-code-editor
@@ -32,3 +32,4 @@ npm start
 
 5. Open the app in your browser in two tabs:
 Visit http://localhost:1500
+
